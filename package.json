@@ -1,0 +1,28 @@
+{
+  "name": "exercicios-entrega",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliagasantos/exercicios-entrega.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliagasantos/exercicios-entrega/issues"
+  },
+  "homepage": "https://github.com/juliagasantos/exercicios-entrega#readme",
+  "dependencies": {
+    "@types/node": "^25.3.3",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "typescript": "^5.9.3"
+  }
+}
