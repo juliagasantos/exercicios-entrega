@@ -1,6 +1,7 @@
 {
   "name": "exercicios-entrega",
   "version": "1.0.0",
+  "type": "module",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/juliagasantos/exercicios-entrega#readme",
   "dependencies": {
     "@types/node": "^25.3.3",
+    "prompt-sync": "^4.2.0",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
